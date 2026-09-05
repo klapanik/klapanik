@@ -8,8 +8,8 @@ Building modern web applications with **React, TypeScript, Python & Django**
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kolapanik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klapanik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantin-lapanik-715413357/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kolapanik)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lapanikkonstantin@gmail.com)
 
@@ -97,43 +97,6 @@ Several of my projects have participated in and won competitions, including proj
 - 💡 Other educational and personal development projects
 
 These experiences helped me develop not only technical skills, but also the ability to explain technical decisions, present a product and confidently defend my work.
-
----
-
-## 📚 Currently Learning
-
-```text
-Frontend              Backend
-──────────────────    ──────────────────
-React                 Python
-TypeScript            Django
-TanStack Query        REST API development
-FSD                   Backend architecture
-```
-
-I'm especially interested in becoming a stronger **fullstack developer** by improving both my frontend architecture and backend development skills.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/kolapanik">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kolapanik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-</a>
-
-<a href="https://github.com/kolapanik">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolapanik&layout=compact&theme=transparent&hide_border=true" />
-</a>
-
-<br />
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=kolapanik&theme=transparent&hide_border=true" />
-</a>
-
-</div>
 
 ---
 
