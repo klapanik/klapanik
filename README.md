@@ -15,8 +15,6 @@ Building modern web applications with **React, TypeScript, Python & Django**
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 I'm a **Junior Fullstack Developer** focused on building modern, maintainable web applications.
@@ -29,8 +27,6 @@ I enjoy working across the entire development process — from designing interfa
 - 🧩 Interested in clean architecture and **Feature-Sliced Design**
 - 📚 Constantly learning new technologies and improving my development skills
 - 🏆 My projects have participated in and won **development competitions**, and I have successfully presented and defended them
-
----
 
 ## 🛠️ Tech Stack
 
@@ -83,8 +79,6 @@ A fullstack school management platform designed to bring students, teachers and 
 
 > SmartSchool is one of my main long-term projects, where I apply and combine the technologies I am currently learning and using.
 
----
-
 ## 🏆 Competitions & Projects
 
 Programming is not only about building projects — I also enjoy **presenting and defending what I create**.
@@ -97,8 +91,6 @@ Several of my projects have participated in and won competitions, including proj
 - 💡 Other educational and personal development projects
 
 These experiences helped me develop not only technical skills, but also the ability to explain technical decisions, present a product and confidently defend my work.
-
----
 
 ## 🎯 My Development Journey
 
@@ -125,8 +117,6 @@ Fullstack Development
 
 I'm focused on turning what I learn into **real projects**, rather than learning technologies only in theory.
 
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in learning, building new projects and connecting with other developers.
@@ -136,8 +126,6 @@ I'm always interested in learning, building new projects and connecting with oth
 **📬 Feel free to reach out**
 
 </div>
-
----
 
 <div align="center">
 
