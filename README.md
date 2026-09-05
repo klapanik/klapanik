@@ -90,31 +90,6 @@ Several of my projects have participated in and won competitions, including proj
 
 These experiences helped me develop not only technical skills, but also the ability to explain technical decisions, present a product and confidently defend my work.
 
-## 🎯 My Development Journey
-
-```text
-JavaScript
-    │
-    ▼
-Frontend Development
-    │
-    ├── React
-    ├── TypeScript
-    └── Modern UI
-    │
-    ▼
-Fullstack Development
-    │
-    ├── Python
-    ├── Django
-    └── APIs
-    │
-    ▼
-🚀 Building real-world applications
-```
-
-I'm focused on turning what I learn into **real projects**, rather than learning technologies only in theory.
-
 ## 🤝 Let's Connect
 
 I'm always interested in learning, building new projects and connecting with other developers.
