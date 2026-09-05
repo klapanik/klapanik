@@ -58,8 +58,6 @@ I enjoy working across the entire development process — from designing interfa
 
 **TanStack Query · React Hook Form · Zod · React Router · shadcn/ui · Radix UI · Lucide React**
 
----
-
 ## 🚀 Featured Project
 
 ### 🏫 SmartSchool
